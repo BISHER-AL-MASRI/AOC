@@ -8,6 +8,7 @@
 //     for cap in re.captures_iter(&input) {
 //         let a = cap[1].parse::<i32>().unwrap();
 //         let b = cap[2].parse::<i32>().unwrap();
+
 //         sum += a * b;
 //     }
 //     println!("{}", sum);
